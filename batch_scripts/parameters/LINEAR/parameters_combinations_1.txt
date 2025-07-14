@@ -1,0 +1,1 @@
+--seed 42 --mixed True --augment False --num_pairs 1000 --random_augment False

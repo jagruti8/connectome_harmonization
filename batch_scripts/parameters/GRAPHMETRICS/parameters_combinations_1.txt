@@ -1,0 +1,4 @@
+--seed 42 --graph_metric nodal_strength
+--seed 42 --graph_metric closeness_centrality
+--seed 42 --graph_metric clustering_coefficient
+--seed 42 --graph_metric local_efficiency

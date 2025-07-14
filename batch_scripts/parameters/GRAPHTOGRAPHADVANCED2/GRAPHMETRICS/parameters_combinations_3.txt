@@ -1,0 +1,4 @@
+--seed 42 --parameter_combination_number 1 --line_number 0 --graph_metric local_efficiency --bvalue 3000 --resolution 2_3 --part_number 0
+--seed 42 --parameter_combination_number 1 --line_number 0 --graph_metric local_efficiency --bvalue 3000 --resolution 2_3 --part_number 1
+--seed 42 --parameter_combination_number 1 --line_number 0 --graph_metric local_efficiency --bvalue 3000 --resolution 2_3 --part_number 2
+--seed 42 --parameter_combination_number 1 --line_number 0 --graph_metric local_efficiency --bvalue 3000 --resolution 2_3 --part_number 3
