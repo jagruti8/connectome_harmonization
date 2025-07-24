@@ -21,6 +21,18 @@ Inside the `dataset_creation` directory, you will find several CSV files listing
 - `train_subjects.csv` – Contains the subjects used for training the model.
 - `val_subjects.csv` – Contains the subjects used for validating the model during training.
 
+Inside the `src` directory, you will find the main Python files that are executed by the scripts in `batch_scripts/scripts/`.
+
+Additionally, the `src` directory includes a `utils/` subdirectory, which contains modules for:
+
+- Model definitions  
+- Data loading functions  
+- Graph metric calculations  
+- Other core utility functions used throughout the `src` codebase
+
+
+
+
 
 ---
 
