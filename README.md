@@ -27,7 +27,8 @@ Additionally, the `src` directory includes a `utils/` subdirectory, which contai
 
 - Model definitions  
 - Data loading functions  
-- Graph metric calculations  
+- Graph metric calculations
+- Configuration files
 - Other core utility functions used throughout the `src` codebase
 
 
