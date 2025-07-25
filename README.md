@@ -1,7 +1,7 @@
 # Structural Connectome Harmonization Using Deep Learning
 
 This repository contains the code for the paper  
-**"Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks."**
+**"[Structural Connectome Harmonization Using Deep Learning: The Strength of Graph Neural Networks](https://www.arxiv.org/abs/2507.13992)"**
 
 The project focuses on harmonizing structural connectivity matrices acquired using different diffusion imaging parameters.
 
